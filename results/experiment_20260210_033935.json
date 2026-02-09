@@ -1,0 +1,245 @@
+[
+  {
+    "index": 1,
+    "clean": "오늘 온라인으로 결제했습니다.",
+    "noisy": "﻿오늘 온라인으로 결재했습니다.",
+    "baseline": "I paid online today.",
+    "onestage": "I paid online today.",
+    "corrected": "오늘 온라인으로 결제했습니다.",
+    "twostage": "I made an online payment today."
+  },
+  {
+    "index": 2,
+    "clean": "매일 아침 운동을 합니다.",
+    "noisy": "메일 아침 운동을 합니다.",
+    "baseline": "I do morning exercise by mail.",
+    "onestage": "I do my morning exercise by mail.",
+    "corrected": "매일 아침 운동을 합니다.",
+    "twostage": "I exercise every morning."
+  },
+  {
+    "index": 3,
+    "clean": "모래는 토요일입니다.",
+    "noisy": "모레는 토요일입니다.",
+    "baseline": "Tomorrow is Saturday.",
+    "onestage": "Tomorrow is Saturday.",
+    "corrected": "내일은 토요일입니다.",
+    "twostage": "Tomorrow is Saturday."
+  },
+  {
+    "index": 4,
+    "clean": "베개를 새로 샀어요.",
+    "noisy": "배개를 새로 샀어요.",
+    "baseline": "I bought a new hat.",
+    "onestage": "I bought a new birdcage.",
+    "corrected": "배지를 새로 샀어요.",
+    "twostage": "I just bought a flag."
+  },
+  {
+    "index": 5,
+    "clean": "감기에 걸렸어요.",
+    "noisy": "강기에 걸렸어요.",
+    "baseline": "I caught a cold.",
+    "onestage": "I caught a cold.",
+    "corrected": "감기였어요.",
+    "twostage": "I had a cold."
+  },
+  {
+    "index": 6,
+    "clean": "낫으로 풀을 베었습니다.",
+    "noisy": "낮으로 풀을 베었습니다.",
+    "baseline": "I mowed the lawn low.",
+    "onestage": "I mowed the lawn low.",
+    "corrected": "낮에 풀을 베었습니다.",
+    "twostage": "I pulled out weeds in the daytime."
+  },
+  {
+    "index": 7,
+    "clean": "성함이 어떻게 되세요?",
+    "noisy": "선함이 어떻게 되세요?",
+    "baseline": "How's your day going?",
+    "onestage": "How's your mood today?",
+    "corrected": "선생님의 건강은 어떻세요?",
+    "twostage": "How is your teacher's health?"
+  },
+  {
+    "index": 8,
+    "clean": "수박을 먹었습니다.",
+    "noisy": "숙박을 먹었습니다.",
+    "baseline": "Stayed and ate.",
+    "onestage": "I stayed and ate.",
+    "corrected": "숙소에서 식사를했습니다.",
+    "twostage": "I had a meal at my accommodation."
+  },
+  {
+    "index": 9,
+    "clean": "밤샘 작업을 했어요.",
+    "noisy": "방생 작업을 했어요.",
+    "baseline": "I had a birth plan.",
+    "onestage": "I had a birth plan.",
+    "corrected": "방생작업을 했어요.",
+    "twostage": "I had a birth plan."
+  },
+  {
+    "index": 10,
+    "clean": "안개가 끼었네요.",
+    "noisy": "안게가 끼었네요.",
+    "baseline": "It's getting cold.",
+    "onestage": "I got stuck in traffic.",
+    "corrected": "안개가 끼었습니다.",
+    "twostage": "The fog has come down."
+  },
+  {
+    "index": 11,
+    "clean": "과일을 사다 주세요.",
+    "noisy": "과일을 싸다 주세요.",
+    "baseline": "Sell me some fruits.",
+    "onestage": "I'd like to buy some fruits, please.",
+    "corrected": "과일을 사주세요.",
+    "twostage": "Please buy some fruit."
+  },
+  {
+    "index": 12,
+    "clean": "서울에 가다가 친구를 만났어요.",
+    "noisy": "서울에 까다가 친구를 만났어요.",
+    "baseline": "I was heading to Seoul when I met a friend.",
+    "onestage": "I went to Seoul and met a friend there.",
+    "corrected": "서울에 가다가 친구를 만나게 되었습니다.",
+    "twostage": "I happened to meet a friend while going to Seoul."
+  },
+  {
+    "index": 13,
+    "clean": "불을 켜주세요.",
+    "noisy": "뿔을 켜주세요.",
+    "baseline": "Please turn on the ignition.",
+    "onestage": "Please turn on the ignition.",
+    "corrected": "불을 켜주세요.",
+    "twostage": "Please turn on the light."
+  },
+  {
+    "index": 14,
+    "clean": "이 사탕은 달다.",
+    "noisy": "이 사탕은 딸다.",
+    "baseline": "This candy is sweet.",
+    "onestage": "This candy is sweet.",
+    "corrected": "이 사탕은 맛있다.",
+    "twostage": "This candy is delicious."
+  },
+  {
+    "index": 15,
+    "clean": "무릎이 아파요.",
+    "noisy": "물피가 아파요.",
+    "baseline": "My eyes are sore.",
+    "onestage": "My eyes are hurting.",
+    "corrected": "물병이 아파요.",
+    "twostage": "The water bottle is broken."
+  },
+  {
+    "index": 16,
+    "clean": "국물이 시원해요.",
+    "noisy": "궁무늬가 시원해요.",
+    "baseline": "The pattern is cool.",
+    "onestage": "The fabric has a nice texture.",
+    "corrected": "궁금이 시원해요.",
+    "twostage": "I'm feeling refreshed."
+  },
+  {
+    "index": 17,
+    "clean": "일어나서 세수했어요.",
+    "noisy": "일원아서 세수했어요.",
+    "baseline": "I washed my face all at once.",
+    "onestage": "I washed my face.",
+    "corrected": "일원해서 세수를 했어요.",
+    "twostage": "We took a bath together."
+  },
+  {
+    "index": 18,
+    "clean": "그는 부자입니다.",
+    "noisy": "그는 보자입니다.",
+    "baseline": "He is a painter.",
+    "onestage": "He is handsome.",
+    "corrected": "그는 보고 있습니다.",
+    "twostage": "He is watching."
+  },
+  {
+    "index": 19,
+    "clean": "이따가 만나요.",
+    "noisy": "이다가 만나요.",
+    "baseline": "Let's meet again.",
+    "onestage": "Let's meet again soon.",
+    "corrected": "이다가 만나고 있습니다.",
+    "twostage": "They are meeting now."
+  },
+  {
+    "index": 20,
+    "clean": "일 더하기 일은 이입니다.",
+    "noisy": "이 더하기 일은 이입니다.",
+    "baseline": "This is one plus one.",
+    "onestage": "This is a plus one thing, it's this.",
+    "corrected": "이것의 추가 일은 이것입니다.",
+    "twostage": "This is an additional task."
+  },
+  {
+    "index": 21,
+    "clean": "오전 회의가 있어요.",
+    "noisy": "오정 회의가 있어요.",
+    "baseline": "There's a meeting with Oh Jung.",
+    "onestage": "The meeting with Oh Jung is scheduled.",
+    "corrected": "오정회사가 있어요.",
+    "twostage": "There is an Ojeong-hoe association."
+  },
+  {
+    "index": 22,
+    "clean": "만원짜리 지폐예요.",
+    "noisy": "망원짜리 지폐예요.",
+    "baseline": "Twenty-dollar bill.",
+    "onestage": "One hundred thousand won note.",
+    "corrected": "망원짜리 지폐가 없어요.",
+    "twostage": "I don't have a 50,000 won bill."
+  },
+  {
+    "index": 23,
+    "clean": "금리가 올랐습니다.",
+    "noisy": "금니가 올랐습니다.",
+    "baseline": "My gold tooth is up.",
+    "onestage": "My gums are swollen.",
+    "corrected": "금은이 올랐습니다.",
+    "twostage": "The gold price has risen."
+  },
+  {
+    "index": 24,
+    "clean": "출금하러 은행에 갔어요.",
+    "noisy": "출근하러 은행에 갔어요.",
+    "baseline": "I'm going to the bank to go to work.",
+    "onestage": "Went to the bank to go to work.",
+    "corrected": "출근하러 학교에 갔어요.",
+    "twostage": "I'm going to school for work."
+  },
+  {
+    "index": 25,
+    "clean": "입금 확인했습니다.",
+    "noisy": "입근 확인했습니다.",
+    "baseline": "Arrived on site.",
+    "onestage": "Arrived on site and confirmed entry.",
+    "corrected": "입장 확인했습니다.",
+    "twostage": "Position confirmed."
+  },
+  {
+    "index": 26,
+    "clean": "수익이 발생했어요.",
+    "noisy": "수의이 발생했어요.",
+    "baseline": "There was a traffic accident.",
+    "onestage": "There was a traffic accident.",
+    "corrected": "수리이 발생했어요.",
+    "twostage": "There's a leak."
+  },
+  {
+    "index": 27,
+    "clean": "다음 달에 이사 갑니다.",
+    "noisy": "다음 달에 의사 갑니다.",
+    "baseline": "I'm going to see a doctor next month.",
+    "onestage": "Next month I'm going to see a doctor.",
+    "corrected": "다음 달에 의사가 갑니다.",
+    "twostage": "The doctor will go next month."
+  }
+]
